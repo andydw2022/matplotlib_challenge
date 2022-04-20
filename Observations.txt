@@ -1,0 +1,37 @@
+Observations on the mouse study
+----------------------------------
+
+1. The Standard Error of the mean of the data for the various drugs suggests that Ramicane has the smallest SEM whereas Ketapril has the higest SEM
+
+2. The drugs were not tested on equal number of mice (sample sizes) which may reflect on the efficacy if the drugs on tumour size.
+
+	     
+Drug Regimen  Drug Count
+------------  -----------	 
+Capomulin	230
+Ceftamin	178
+Infubinol	178
+Ketapril	188
+Naftisol	186
+Placebo	        181
+Propriva	156
+Ramicane	228
+Stelasyn	181
+Zoniferol	182
+
+3. Looking at the results of final tumour sizes of the four drugs 
+ Capomulin,
+ Ramicane, 
+ Infubinol,
+ Ceftamin
+
+Ceftamin seemed to have the largest increase in final tumour size whereas Ramicane has the smallest. This may imply Ramicane is
+the more effective of the drugs on tumour sizes.
+
+4. The box plot is interesting in that no discerbible outliers could be seen in the plot and the whiskers are about even and the IQR
+which could indicate that the data is evenly spread and hence close to a normal distribution.
+The median is not quite in the middle of the box
+
+5. There seems to be low correlation between mouse weight and tumour size (0.59)
+
+6. Linear regression within the scatter plot should not be relied on for extrapoation.
